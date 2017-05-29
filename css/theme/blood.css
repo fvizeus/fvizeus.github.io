@@ -19,11 +19,16 @@ body {
 
 .reveal {
   font-family: Ubuntu, "sans-serif";
-  font-size: 36px;
+  font-size: 40px;
   font-weight: normal;
   color: #eee; }
 
 ::selection {
+  color: #fff;
+  background: #a23;
+  text-shadow: none; }
+
+::-moz-selection {
   color: #fff;
   background: #a23;
   text-shadow: none; }
@@ -53,7 +58,7 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3em; }
+  font-size: 3.77em; }
 
 .reveal h2 {
   font-size: 2.11em; }
