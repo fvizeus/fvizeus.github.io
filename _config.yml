@@ -1,10 +1,8 @@
-title: Webjeda Slides
-description: Webjeda slides is built using revealjs. The idea is to keep all the slideshows in one place as posts. All your presentations can be accessed from one place!
-
-
+title: Test
+description: Test
 
 baseurl: "/slides" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+url: "https://fvizeus.github.io" # the base hostname & protocol for your site
 permalink: /:title/
 
 excerpt_separator: ""
@@ -18,9 +16,6 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
-  
-analytics: UA-83979019-1
 
 color-1: '#e74c3c'
 color-2: '##1abc9c'
@@ -30,4 +25,3 @@ color-5: '##1abc9c'
 color-6: '##1abc9c'
 color-7: '##1abc9c'
 color-8: '##1abc9c'
-
