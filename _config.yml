@@ -1,7 +1,6 @@
 title: Test
 description: Test
 
-baseurl: "/slides" # the subpath of your site, e.g. /blog
 url: "https://fvizeus.github.io" # the base hostname & protocol for your site
 permalink: /:title/
 
